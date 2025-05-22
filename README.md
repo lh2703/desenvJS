@@ -30,7 +30,7 @@ Desenvolvimento em JavaScript de uma aplicação que registra e armazena localme
 
    - **Voltar ao cadastro**: Use o botão **Voltar ao Cadastro** para retornar à página inicial.
 
-## 📁 **Estrutura do Projeto**
+## 📁**Estrutura do Projeto**
 
 ```
 .
