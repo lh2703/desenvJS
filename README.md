@@ -1,23 +1,23 @@
-## **Sobre o projeto**
+# 📋 **Descrição**
 Desenvolvimento em JavaScript de uma aplicação que registra e armazena localmente os dados cadastrados pelo usuário, além de consultar e remover os usuários cadastrados.
 
-## **Funcionalidades**
+# 🌟 **Funcionalidades**
 - **Cadastro de usuário**
 - **Consulta de usuário**
 - **Remoção de usuário**
 
-## **Tecnologias utilizadas**
+# 🛠️ **Tecnologias Utilizadas**
 - **HTML**
 - **JavaScript**
 - **CSS**
 
-## **Como utilizar o sistema**
+# 📦 **Como utilizar o sistema**
 1. Clone este repositório ou faça o download do projeto.
 2. No **Visual Studio Code**, instale a extensão **Live Server**:
    - Pressione **Ctrl + Shift + X** para abrir a aba de extensões.
    - Pesquise por **Live Server** e instale a extensão.
 
-        ![alt text](image-1.png)
+        ![alt text](assets/image-1.png)
 
 3. Abra o arquivo `index.html` no VS Code:
    - Clique com o botão direito e selecione **Open With Live Server** ou pressione **Alt + L** seguido de **Alt + O** no teclado.
@@ -30,7 +30,7 @@ Desenvolvimento em JavaScript de uma aplicação que registra e armazena localme
 
    - **Voltar ao cadastro**: Use o botão **Voltar ao Cadastro** para retornar à página inicial.
 
-## 📁 Estrutura do Projeto
+## 📁 **Estrutura do Projeto**
 
 ```
 .
@@ -42,7 +42,7 @@ Desenvolvimento em JavaScript de uma aplicação que registra e armazena localme
 ├── README.md                            # Documentação do projeto
 ```
 
-## Autor
+## **👩‍💻Autor**
 <table>
    <td align="center">
       <img src="https://github.com/lh2703.png" width="100"><br>
