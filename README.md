@@ -1,14 +1,10 @@
-
 ## **Sobre o projeto**
 Desenvolvimento em JavaScript de uma aplicação que registra e armazena localmente os dados cadastrados pelo usuário, além de consultar e remover os usuários cadastrados.
-
 
 ## **Funcionalidades**
 - **Cadastro de usuário**
 - **Consulta de usuário**
 - **Remoção de usuário**
-
----
 
 ## **Tecnologias utilizadas**
 - **HTML**
@@ -31,6 +27,7 @@ Desenvolvimento em JavaScript de uma aplicação que registra e armazena localme
    - **Cadastrar usuário**: Preencha todos os campos e clique em **Cadastrar**.
    - **Consultar usuários**: Clique em **Consultar** para exibir a lista de usuários cadastrados.
    - **Remover usuário**: Clique no botão vermelho **Remover** ao lado do cadastro e confirme a exclusão na caixa de diálogo.
+
    - **Voltar ao cadastro**: Use o botão **Voltar ao Cadastro** para retornar à página inicial.
 
 ## 📁 Estrutura do Projeto
