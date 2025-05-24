@@ -38,7 +38,7 @@ Desenvolvimento em JavaScript de uma aplicação que registra e armazena localme
 ├── src/                                 # Códigos da Aplicação
 │   ├── index.js/                        # Lógica e interações da página (JavaScript)
 │   ├── index.html/                      # Estrutura da página web (HTML)
-│   ├── styles.css/                      # EEstilização da página (CSS)
+│   ├── styles.css/                      # Estilização da página (CSS)
 ├── README.md                            # Documentação do projeto
 ```
 
